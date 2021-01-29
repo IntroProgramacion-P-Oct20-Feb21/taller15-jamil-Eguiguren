@@ -32,6 +32,7 @@ public class LecturaArchivo {
                 for (int i = 0; i < linea_partes.size(); i++) {
                     System.out.println(linea_partes.get(i));
                 }
+                //System.out.printf("%s\n", linea_partes.get(1));
                 System.out.println("-----------------------------------");
 
             } // fin de while
